@@ -10,7 +10,7 @@ FROM employees
 LEFT JOIN salaries ON employees.emp_no = salaries.emp_no
 ORDER BY emp_no
 ;
---300,024
+-- 300,024
 
 --List the first name, last name, and hire date for the employees who were hired in 1986.
 
@@ -34,7 +34,7 @@ LEFT JOIN departments ON dept_manager.dept_no = departments.dept_no
 LEFT JOIN employees ON dept_manager.emp_no = employees.emp_no
 ORDER BY emp_no
 ;
---24
+-- 24
 
 --List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
 
@@ -87,7 +87,7 @@ LEFT JOIN dept_emp ON employees.emp_no=dept_emp.emp_no
 INNER JOIN departments ON departments.dept_no=dept_emp.dept_no
 WHERE departments.dept_name in ('Sales', 'Development')
 ;
---137,952
+-- 137,952
 
 --List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
@@ -96,4 +96,4 @@ SELECT last_name
 FROM employees
 GROUP BY last_name
 ORDER BY count(last_name) DESC;
---1,638 
+-- 1,638 
