@@ -1,7 +1,7 @@
 # SQL-Challenge
-![Sql_data_base_with_logo](https://github.com/DigitalJake/SQL-Challenge/assets/120591725/33aa4248-0709-4eb5-88e1-1934f2c7ead0)
 
-## Employee Database
+## Employee Database![Sql_data_base_with_logo](https://github.com/DigitalJake/SQL-Challenge/assets/120591725/4cbc58cd-9688-42db-92e7-2a5bf9856e83)
+
  
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
@@ -14,7 +14,8 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. 
 
-![Screenshot (455)](https://github.com/DigitalJake/SQL-Challenge/assets/120591725/16232df6-3e92-4cc7-8559-554e28ec4f5f)
+![Diagram](https://github.com/DigitalJake/SQL-Challenge/assets/120591725/3616be92-f9f5-4203-abac-02865b4dde2b)
+
 
 
 ### Data Engineering
