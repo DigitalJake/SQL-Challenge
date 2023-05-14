@@ -1,7 +1,7 @@
 # SQL-Challenge
 ![Sql_data_base_with_logo](https://github.com/DigitalJake/SQL-Challenge/assets/120591725/33aa4248-0709-4eb5-88e1-1934f2c7ead0)
 
-                                                         -Employee Database-
+## Employee Database
  
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
@@ -10,11 +10,11 @@ For this project, you’ll design the tables to hold the data from the CSV files
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
 
-# Data Modeling
+### Data Modeling
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. 
 
-# Data Engineering
+### Data Engineering
 
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
@@ -27,7 +27,7 @@ Use the provided information to create a table schema for each of the six CSV fi
 
 Import each CSV file into its corresponding SQL table.
 
-# Data Analysis
+### Data Analysis
 
 List the employee number, last name, first name, sex, and salary of each employee.
 
